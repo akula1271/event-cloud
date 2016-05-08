@@ -1,0 +1,605 @@
+DEBUG 2016-04-28 22:06:00,689 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-28 22:06:04,011 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-28 22:06:04,015 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,018 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,018 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,018 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,018 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,019 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,020 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,020 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:06:04,026 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-28 22:06:04,084 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:06:04,084 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:06:04,084 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:06:04,084 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:08:42,636 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-28 22:08:50,003 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-28 22:08:50,011 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,014 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,014 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,015 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,015 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,015 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,015 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,016 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,017 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:08:50,023 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-28 22:08:50,075 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:08:50,075 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:08:50,075 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:08:50,075 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:16:50,260 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-28 22:16:57,304 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-28 22:16:57,308 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,310 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,311 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,311 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,312 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,313 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 22:16:57,329 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-28 22:16:57,374 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:16:57,374 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:16:57,374 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 22:16:57,374 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:18:43,816 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-28 23:18:52,473 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-28 23:18:52,478 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,483 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,484 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,484 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,484 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,484 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,484 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,485 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,488 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:18:52,505 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-28 23:18:52,588 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:18:52,589 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:18:52,589 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:18:52,589 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:20:19,010 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-28 23:20:28,551 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-28 23:20:28,559 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,562 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,563 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,564 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-28 23:20:28,571 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-28 23:20:28,627 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:20:28,627 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:20:28,627 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-28 23:20:28,627 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:53:09,271 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-29 06:53:26,467 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-29 06:53:26,471 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,474 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,476 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,476 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,476 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,476 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,476 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,477 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,477 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,477 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:53:26,499 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-29 06:53:26,560 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:53:26,560 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:53:26,560 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:53:26,560 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:55:21,110 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-29 06:55:29,767 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-29 06:55:29,771 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,774 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,775 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,775 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,775 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,775 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,775 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,776 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,776 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,776 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 06:55:29,782 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-29 06:55:29,852 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:55:29,852 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:55:29,852 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 06:55:29,852 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:20:05,226 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-29 07:20:14,365 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-29 07:20:14,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,372 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:20:14,380 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-29 07:20:14,442 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:20:14,442 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:20:14,442 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:20:14,442 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+INFO  2016-04-29 07:20:14,626 [1    ] Hangfire.SqlServer.SqlServerStorage      - Start installing Hangfire SQL objects...
+INFO  2016-04-29 07:20:14,809 [1    ] Hangfire.SqlServer.SqlServerStorage      - Hangfire SQL objects installed.
+DEBUG 2016-04-29 07:20:16,345 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2016-04-29 07:20:16,362 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2016-04-29 07:20:16,363 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2016-04-29 07:20:16,366 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2016-04-29 07:20:16,367 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: EventCloud
+DEBUG 2016-04-29 07:20:16,375 [1    ] bp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+INFO  2016-04-29 07:20:16,395 [1    ] Hangfire.BackgroundJobServer             - Starting Hangfire Server
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             - Using job storage: 'SQL Server: (LocalDB)\MSSQLLocalDB@'.
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             - Using the following options for SQL Server job storage:
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             -     Queue poll interval: 00:00:15.
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             - Using the following options for Hangfire Server:
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             -     Worker count: 20.
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             -     Listening queues: 'default'.
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             -     Shutdown timeout: 00:00:15.
+INFO  2016-04-29 07:20:16,400 [1    ] Hangfire.BackgroundJobServer             -     Schedule polling interval: 00:00:15.
+DEBUG 2016-04-29 07:20:16,452 [erver] ngfire.Server.BackgroundProcessingServer - Background process 'BackgroundProcessingServer' started.
+DEBUG 2016-04-29 07:20:16,704 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 4 classes defines auto mapping attributes
+DEBUG 2016-04-29 07:20:16,705 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2016-04-29 07:20:16,751 [tbeat] Hangfire.Server.ServerHeartbeat          - Background process 'ServerHeartbeat' started.
+DEBUG 2016-04-29 07:20:16,780 [chdog] Hangfire.Server.ServerWatchdog           - Background process 'ServerWatchdog' started.
+DEBUG 2016-04-29 07:20:16,785 [nager] Hangfire.SqlServer.ExpirationManager     - Background process 'Hangfire.SqlServer.ExpirationManager' started.
+DEBUG 2016-04-29 07:20:16,790 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'AggregatedCounter'...
+DEBUG 2016-04-29 07:20:16,791 [gator] Hangfire.SqlServer.CountersAggregator    - Background process 'Hangfire.SqlServer.CountersAggregator' started.
+DEBUG 2016-04-29 07:20:16,798 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:20:16,801 [e6a74] Hangfire.Server.Worker                   - Background process 'Worker #8ace6a74' started.
+DEBUG 2016-04-29 07:20:16,833 [8dfb0] Hangfire.Server.Worker                   - Background process 'Worker #cac8dfb0' started.
+DEBUG 2016-04-29 07:20:16,852 [e5c1f] Hangfire.Server.Worker                   - Background process 'Worker #c68e5c1f' started.
+DEBUG 2016-04-29 07:20:16,872 [da6b0] Hangfire.Server.Worker                   - Background process 'Worker #8fdda6b0' started.
+DEBUG 2016-04-29 07:20:16,882 [e353e] Hangfire.Server.Worker                   - Background process 'Worker #161e353e' started.
+DEBUG 2016-04-29 07:20:16,892 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Job'...
+DEBUG 2016-04-29 07:20:16,895 [02bd6] Hangfire.Server.Worker                   - Background process 'Worker #1c302bd6' started.
+DEBUG 2016-04-29 07:20:16,931 [0cc17] Hangfire.Server.Worker                   - Background process 'Worker #53a0cc17' started.
+DEBUG 2016-04-29 07:20:16,931 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'List'...
+DEBUG 2016-04-29 07:20:16,937 [57bf1] Hangfire.Server.Worker                   - Background process 'Worker #08657bf1' started.
+DEBUG 2016-04-29 07:20:16,968 [d1186] Hangfire.Server.Worker                   - Background process 'Worker #870d1186' started.
+DEBUG 2016-04-29 07:20:16,974 [ed072] Hangfire.Server.Worker                   - Background process 'Worker #88ded072' started.
+DEBUG 2016-04-29 07:20:16,975 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Set'...
+DEBUG 2016-04-29 07:20:16,979 [6d810] Hangfire.Server.Worker                   - Background process 'Worker #ca06d810' started.
+DEBUG 2016-04-29 07:20:16,981 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Hash'...
+DEBUG 2016-04-29 07:20:16,982 [35b8c] Hangfire.Server.Worker                   - Background process 'Worker #17635b8c' started.
+DEBUG 2016-04-29 07:20:16,988 [cc4ac] Hangfire.Server.Worker                   - Background process 'Worker #e12cc4ac' started.
+DEBUG 2016-04-29 07:20:16,995 [77c09] Hangfire.Server.Worker                   - Background process 'Worker #4b577c09' started.
+DEBUG 2016-04-29 07:20:16,997 [3b31d] Hangfire.Server.Worker                   - Background process 'Worker #8c83b31d' started.
+DEBUG 2016-04-29 07:20:17,002 [2ae9d] Hangfire.Server.Worker                   - Background process 'Worker #f6b2ae9d' started.
+DEBUG 2016-04-29 07:20:17,009 [f02ce] Hangfire.Server.Worker                   - Background process 'Worker #c11f02ce' started.
+DEBUG 2016-04-29 07:20:17,013 [bae46] Hangfire.Server.Worker                   - Background process 'Worker #9e8bae46' started.
+DEBUG 2016-04-29 07:20:17,019 [b5c31] Hangfire.Server.Worker                   - Background process 'Worker #4bdb5c31' started.
+DEBUG 2016-04-29 07:20:17,026 [ed94f] Hangfire.Server.Worker                   - Background process 'Worker #954ed94f' started.
+DEBUG 2016-04-29 07:20:17,033 [duler] Hangfire.Server.DelayedJobScheduler      - Background process 'DelayedJobScheduler' started.
+DEBUG 2016-04-29 07:20:17,034 [duler] Hangfire.Server.RecurringJobScheduler    - Background process 'RecurringJobScheduler' started.
+DEBUG 2016-04-29 07:20:17,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.UserLoginInfoDto
+DEBUG 2016-04-29 07:20:17,166 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.MultiTenancy.Dto.TenantListDto
+DEBUG 2016-04-29 07:20:17,167 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2016-04-29 07:20:17,219 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2016-04-29 07:20:17,220 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2016-04-29 07:20:17,221 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2016-04-29 07:20:17,222 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+ERROR 2016-04-29 07:22:48,119 [5    ] tCloud.Web.Controllers.AccountController - Default language is not defined!
+System.ApplicationException: Default language is not defined!
+   at Abp.Localization.MultiTenantLocalizationDictionaryProvider.GetDefaultDictionary()
+   at Abp.Localization.MultiTenantLocalizationDictionaryProvider.get_DefaultDictionary()
+   at Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetStringOrNull(String name, CultureInfo culture, Boolean tryDefaults)
+   at Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetString(String name, CultureInfo culture)
+   at Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetString(String name)
+   at Abp.Web.Mvc.Views.AbpWebViewPage`1.L(String name)
+   at ASP._Page_Views_Account_Login_cshtml.Execute() in c:\Users\lalit\Desktop\EventCloud\EventCloud.Web\Views\Account\Login.cshtml:line 18
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2016-04-29 07:25:19,478 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-29 07:25:32,275 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-29 07:25:32,280 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,283 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,283 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,284 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-29 07:25:32,293 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-29 07:25:32,354 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:25:32,354 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:25:32,354 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-29 07:25:32,354 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+INFO  2016-04-29 07:25:32,460 [1    ] Hangfire.SqlServer.SqlServerStorage      - Start installing Hangfire SQL objects...
+INFO  2016-04-29 07:25:32,525 [1    ] Hangfire.SqlServer.SqlServerStorage      - Hangfire SQL objects installed.
+DEBUG 2016-04-29 07:25:33,444 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2016-04-29 07:25:33,458 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2016-04-29 07:25:33,459 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2016-04-29 07:25:33,461 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2016-04-29 07:25:33,462 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: EventCloud
+DEBUG 2016-04-29 07:25:33,474 [1    ] bp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+INFO  2016-04-29 07:25:33,491 [1    ] Hangfire.BackgroundJobServer             - Starting Hangfire Server
+INFO  2016-04-29 07:25:33,495 [1    ] Hangfire.BackgroundJobServer             - Using job storage: 'SQL Server: (LocalDB)\MSSQLLocalDB@'.
+INFO  2016-04-29 07:25:33,495 [1    ] Hangfire.BackgroundJobServer             - Using the following options for SQL Server job storage:
+INFO  2016-04-29 07:25:33,496 [1    ] Hangfire.BackgroundJobServer             -     Queue poll interval: 00:00:15.
+INFO  2016-04-29 07:25:33,496 [1    ] Hangfire.BackgroundJobServer             - Using the following options for Hangfire Server:
+INFO  2016-04-29 07:25:33,496 [1    ] Hangfire.BackgroundJobServer             -     Worker count: 20.
+INFO  2016-04-29 07:25:33,496 [1    ] Hangfire.BackgroundJobServer             -     Listening queues: 'default'.
+INFO  2016-04-29 07:25:33,496 [1    ] Hangfire.BackgroundJobServer             -     Shutdown timeout: 00:00:15.
+INFO  2016-04-29 07:25:33,496 [1    ] Hangfire.BackgroundJobServer             -     Schedule polling interval: 00:00:15.
+DEBUG 2016-04-29 07:25:33,520 [erver] ngfire.Server.BackgroundProcessingServer - Background process 'BackgroundProcessingServer' started.
+DEBUG 2016-04-29 07:25:33,746 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 4 classes defines auto mapping attributes
+DEBUG 2016-04-29 07:25:33,746 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2016-04-29 07:25:33,766 [tbeat] Hangfire.Server.ServerHeartbeat          - Background process 'ServerHeartbeat' started.
+DEBUG 2016-04-29 07:25:33,794 [chdog] Hangfire.Server.ServerWatchdog           - Background process 'ServerWatchdog' started.
+DEBUG 2016-04-29 07:25:33,818 [nager] Hangfire.SqlServer.ExpirationManager     - Background process 'Hangfire.SqlServer.ExpirationManager' started.
+DEBUG 2016-04-29 07:25:33,823 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'AggregatedCounter'...
+DEBUG 2016-04-29 07:25:33,848 [gator] Hangfire.SqlServer.CountersAggregator    - Background process 'Hangfire.SqlServer.CountersAggregator' started.
+DEBUG 2016-04-29 07:25:33,851 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:25:33,851 [f2f0b] Hangfire.Server.Worker                   - Background process 'Worker #0ebf2f0b' started.
+DEBUG 2016-04-29 07:25:33,881 [bce78] Hangfire.Server.Worker                   - Background process 'Worker #301bce78' started.
+DEBUG 2016-04-29 07:25:33,903 [fd1b2] Hangfire.Server.Worker                   - Background process 'Worker #344fd1b2' started.
+DEBUG 2016-04-29 07:25:33,929 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Job'...
+DEBUG 2016-04-29 07:25:33,931 [7d367] Hangfire.Server.Worker                   - Background process 'Worker #54b7d367' started.
+DEBUG 2016-04-29 07:25:33,950 [1fc66] Hangfire.Server.Worker                   - Background process 'Worker #e521fc66' started.
+DEBUG 2016-04-29 07:25:33,953 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'List'...
+DEBUG 2016-04-29 07:25:33,963 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Set'...
+DEBUG 2016-04-29 07:25:33,968 [8aa80] Hangfire.Server.Worker                   - Background process 'Worker #dab8aa80' started.
+DEBUG 2016-04-29 07:25:33,971 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Hash'...
+DEBUG 2016-04-29 07:25:33,973 [ba5a1] Hangfire.Server.Worker                   - Background process 'Worker #720ba5a1' started.
+DEBUG 2016-04-29 07:25:33,980 [49da7] Hangfire.Server.Worker                   - Background process 'Worker #f5149da7' started.
+DEBUG 2016-04-29 07:25:33,985 [28c56] Hangfire.Server.Worker                   - Background process 'Worker #ac328c56' started.
+DEBUG 2016-04-29 07:25:33,989 [97c2a] Hangfire.Server.Worker                   - Background process 'Worker #10597c2a' started.
+DEBUG 2016-04-29 07:25:33,994 [615ec] Hangfire.Server.Worker                   - Background process 'Worker #0ee615ec' started.
+DEBUG 2016-04-29 07:25:34,000 [8f405] Hangfire.Server.Worker                   - Background process 'Worker #f1c8f405' started.
+DEBUG 2016-04-29 07:25:34,004 [fcf7f] Hangfire.Server.Worker                   - Background process 'Worker #6c4fcf7f' started.
+DEBUG 2016-04-29 07:25:34,010 [41461] Hangfire.Server.Worker                   - Background process 'Worker #3a041461' started.
+DEBUG 2016-04-29 07:25:34,013 [1b3cf] Hangfire.Server.Worker                   - Background process 'Worker #f091b3cf' started.
+DEBUG 2016-04-29 07:25:34,018 [c6e96] Hangfire.Server.Worker                   - Background process 'Worker #519c6e96' started.
+DEBUG 2016-04-29 07:25:34,023 [172db] Hangfire.Server.Worker                   - Background process 'Worker #f7f172db' started.
+DEBUG 2016-04-29 07:25:34,028 [4b53d] Hangfire.Server.Worker                   - Background process 'Worker #55e4b53d' started.
+DEBUG 2016-04-29 07:25:34,032 [bd222] Hangfire.Server.Worker                   - Background process 'Worker #c73bd222' started.
+DEBUG 2016-04-29 07:25:34,036 [8b93c] Hangfire.Server.Worker                   - Background process 'Worker #fdd8b93c' started.
+DEBUG 2016-04-29 07:25:34,041 [duler] Hangfire.Server.DelayedJobScheduler      - Background process 'DelayedJobScheduler' started.
+DEBUG 2016-04-29 07:25:34,067 [duler] Hangfire.Server.RecurringJobScheduler    - Background process 'RecurringJobScheduler' started.
+DEBUG 2016-04-29 07:25:34,185 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.UserLoginInfoDto
+DEBUG 2016-04-29 07:25:34,211 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.MultiTenancy.Dto.TenantListDto
+DEBUG 2016-04-29 07:25:34,212 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2016-04-29 07:25:34,256 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2016-04-29 07:25:34,257 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2016-04-29 07:25:34,258 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2016-04-29 07:25:34,259 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2016-04-29 07:25:48,861 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"c97fa9c3-7b44-4e0e-8021-1a73cdebfd72","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:25:48.8453761-07:00","Properties":{}}
+DEBUG 2016-04-29 07:25:48,910 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: c97fa9c3-7b44-4e0e-8021-1a73cdebfd72
+INFO  2016-04-29 07:30:33,860 [chdog] Hangfire.Server.ServerWatchdog           - 1 servers were removed due to timeout
+DEBUG 2016-04-29 07:30:33,910 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:33:44,713 [77   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: c97fa9c3-7b44-4e0e-8021-1a73cdebfd72
+DEBUG 2016-04-29 07:33:45,502 [82   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"3526734e-2b07-4e39-bac8-f7304a9ee09e","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:33:45.5025413-07:00","Properties":{}}
+DEBUG 2016-04-29 07:33:45,603 [77   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 3526734e-2b07-4e39-bac8-f7304a9ee09e
+DEBUG 2016-04-29 07:33:59,256 [80   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 3526734e-2b07-4e39-bac8-f7304a9ee09e
+DEBUG 2016-04-29 07:33:59,739 [82   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"a0a3d96a-3609-4b95-aa13-c4a517c8de62","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:33:59.7394915-07:00","Properties":{}}
+DEBUG 2016-04-29 07:33:59,826 [80   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: a0a3d96a-3609-4b95-aa13-c4a517c8de62
+DEBUG 2016-04-29 07:34:12,029 [77   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: a0a3d96a-3609-4b95-aa13-c4a517c8de62
+DEBUG 2016-04-29 07:34:12,785 [93   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ebe700e3-5bdd-42aa-b56b-b0a4b0d07059","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:34:12.7859718-07:00","Properties":{}}
+DEBUG 2016-04-29 07:34:12,930 [82   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ebe700e3-5bdd-42aa-b56b-b0a4b0d07059
+DEBUG 2016-04-29 07:35:33,914 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:40:33,916 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:41:07,077 [80   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ebe700e3-5bdd-42aa-b56b-b0a4b0d07059
+DEBUG 2016-04-29 07:41:07,838 [106  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"6c41f584-0861-4729-a721-d67ce0ac0756","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:41:07.8387314-07:00","Properties":{}}
+DEBUG 2016-04-29 07:41:07,931 [104  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 6c41f584-0861-4729-a721-d67ce0ac0756
+DEBUG 2016-04-29 07:41:09,770 [80   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 6c41f584-0861-4729-a721-d67ce0ac0756
+DEBUG 2016-04-29 07:41:10,349 [107  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"e8a7aea4-98f2-495d-9f03-010d6e23a62d","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:41:10.3493544-07:00","Properties":{}}
+DEBUG 2016-04-29 07:41:10,367 [105  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: e8a7aea4-98f2-495d-9f03-010d6e23a62d
+DEBUG 2016-04-29 07:41:12,346 [80   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: e8a7aea4-98f2-495d-9f03-010d6e23a62d
+DEBUG 2016-04-29 07:41:12,880 [106  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"1a6fe65b-d30d-4851-8f29-26705ddb5dab","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:41:12.8799669-07:00","Properties":{}}
+DEBUG 2016-04-29 07:41:12,946 [105  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 1a6fe65b-d30d-4851-8f29-26705ddb5dab
+DEBUG 2016-04-29 07:41:14,583 [80   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 1a6fe65b-d30d-4851-8f29-26705ddb5dab
+DEBUG 2016-04-29 07:41:15,117 [105  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"e42e9f33-4fda-4882-9023-3b91ad222aa1","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:41:15.117926-07:00","Properties":{}}
+DEBUG 2016-04-29 07:41:15,194 [105  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: e42e9f33-4fda-4882-9023-3b91ad222aa1
+DEBUG 2016-04-29 07:43:20,658 [101  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: e42e9f33-4fda-4882-9023-3b91ad222aa1
+DEBUG 2016-04-29 07:43:21,687 [98   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"44dbedab-8c66-4923-a77f-3c1cc9e2d673","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:43:21.6875212-07:00","Properties":{}}
+DEBUG 2016-04-29 07:43:21,797 [98   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 44dbedab-8c66-4923-a77f-3c1cc9e2d673
+DEBUG 2016-04-29 07:45:33,921 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:46:06,687 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 44dbedab-8c66-4923-a77f-3c1cc9e2d673
+DEBUG 2016-04-29 07:46:07,355 [85   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"8d03a2bd-d2c0-4455-92da-d9527c6238b8","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T07:46:07.3545519-07:00","Properties":{}}
+DEBUG 2016-04-29 07:46:07,378 [84   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 8d03a2bd-d2c0-4455-92da-d9527c6238b8
+DEBUG 2016-04-29 07:46:26,549 [99   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"9509fc1d-edcd-45c9-b893-a2d11ce8e45b","IpAddress":"::1","TenantId":1,"UserId":3,"ConnectTime":"2016-04-29T07:46:26.5480537-07:00","Properties":{}}
+DEBUG 2016-04-29 07:46:26,638 [84   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 9509fc1d-edcd-45c9-b893-a2d11ce8e45b
+DEBUG 2016-04-29 07:46:59,758 [87   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 8d03a2bd-d2c0-4455-92da-d9527c6238b8
+DEBUG 2016-04-29 07:47:37,294 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 9509fc1d-edcd-45c9-b893-a2d11ce8e45b
+DEBUG 2016-04-29 07:47:37,997 [87   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ad164041-2d40-4709-b4fa-ad938517fc8e","IpAddress":"::1","TenantId":1,"UserId":3,"ConnectTime":"2016-04-29T07:47:37.9979227-07:00","Properties":{}}
+DEBUG 2016-04-29 07:47:38,088 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ad164041-2d40-4709-b4fa-ad938517fc8e
+DEBUG 2016-04-29 07:47:38,963 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ad164041-2d40-4709-b4fa-ad938517fc8e
+DEBUG 2016-04-29 07:47:39,511 [78   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"e7317879-b3f5-4b25-a8c7-46ee234f46bb","IpAddress":"::1","TenantId":1,"UserId":3,"ConnectTime":"2016-04-29T07:47:39.5117797-07:00","Properties":{}}
+DEBUG 2016-04-29 07:47:39,516 [79   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: e7317879-b3f5-4b25-a8c7-46ee234f46bb
+DEBUG 2016-04-29 07:47:40,441 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: e7317879-b3f5-4b25-a8c7-46ee234f46bb
+DEBUG 2016-04-29 07:47:40,895 [78   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"db2d536f-d37b-4069-9059-d0af50ea4cc8","IpAddress":"::1","TenantId":1,"UserId":3,"ConnectTime":"2016-04-29T07:47:40.895148-07:00","Properties":{}}
+DEBUG 2016-04-29 07:47:40,984 [78   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: db2d536f-d37b-4069-9059-d0af50ea4cc8
+DEBUG 2016-04-29 07:47:42,347 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: db2d536f-d37b-4069-9059-d0af50ea4cc8
+DEBUG 2016-04-29 07:47:42,805 [99   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"10087d0d-a238-4549-8c39-101ad4ac8481","IpAddress":"::1","TenantId":1,"UserId":3,"ConnectTime":"2016-04-29T07:47:42.804974-07:00","Properties":{}}
+DEBUG 2016-04-29 07:47:42,893 [98   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 10087d0d-a238-4549-8c39-101ad4ac8481
+DEBUG 2016-04-29 07:48:16,245 [78   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"463c7173-e884-484b-aecb-9f94b5ffd420","IpAddress":"::1","TenantId":1,"UserId":3,"ConnectTime":"2016-04-29T07:48:16.2457432-07:00","Properties":{}}
+DEBUG 2016-04-29 07:48:16,364 [76   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 463c7173-e884-484b-aecb-9f94b5ffd420
+DEBUG 2016-04-29 07:48:17,728 [100  ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 463c7173-e884-484b-aecb-9f94b5ffd420
+DEBUG 2016-04-29 07:50:33,924 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 07:55:33,930 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 08:00:33,937 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 08:05:33,942 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 08:06:21,761 [52   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"5717c303-4ebc-4501-bec2-4e58dcea6eb3","IpAddress":"::1","TenantId":null,"UserId":null,"ConnectTime":"2016-04-29T08:06:21.7613604-07:00","Properties":{}}
+DEBUG 2016-04-29 08:06:21,909 [57   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 5717c303-4ebc-4501-bec2-4e58dcea6eb3
+DEBUG 2016-04-29 08:06:46,484 [51   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"6d006be8-8411-429b-b2f8-07e4ad0f8747","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-04-29T08:06:46.484975-07:00","Properties":{}}
+DEBUG 2016-04-29 08:06:46,602 [57   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 6d006be8-8411-429b-b2f8-07e4ad0f8747
+DEBUG 2016-04-29 08:06:51,167 [57   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 10087d0d-a238-4549-8c39-101ad4ac8481
+DEBUG 2016-04-29 08:06:56,751 [59   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 6d006be8-8411-429b-b2f8-07e4ad0f8747
+DEBUG 2016-04-29 08:06:57,474 [47   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"5cfe5408-1fbb-4ca4-b1b1-4e78b44f47d0","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-04-29T08:06:57.4743972-07:00","Properties":{}}
+DEBUG 2016-04-29 08:06:57,575 [51   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 5cfe5408-1fbb-4ca4-b1b1-4e78b44f47d0
+DEBUG 2016-04-29 08:06:59,101 [59   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 5cfe5408-1fbb-4ca4-b1b1-4e78b44f47d0
+DEBUG 2016-04-29 08:06:59,669 [51   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"b4ea3bec-acf2-4663-bd5d-3ee8af87060c","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-04-29T08:06:59.669103-07:00","Properties":{}}
+DEBUG 2016-04-29 08:06:59,772 [47   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: b4ea3bec-acf2-4663-bd5d-3ee8af87060c
+DEBUG 2016-04-29 08:07:16,184 [46   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 5717c303-4ebc-4501-bec2-4e58dcea6eb3
+DEBUG 2016-04-29 08:10:33,945 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-29 08:15:33,947 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-30 13:14:32,364 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-04-30 13:14:41,517 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-04-30 13:14:41,522 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,527 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-04-30 13:14:41,533 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-04-30 13:14:41,592 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-30 13:14:41,592 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-30 13:14:41,592 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-04-30 13:14:41,592 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+INFO  2016-04-30 13:14:41,692 [1    ] Hangfire.SqlServer.SqlServerStorage      - Start installing Hangfire SQL objects...
+INFO  2016-04-30 13:14:41,800 [1    ] Hangfire.SqlServer.SqlServerStorage      - Hangfire SQL objects installed.
+DEBUG 2016-04-30 13:14:43,404 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2016-04-30 13:14:43,420 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2016-04-30 13:14:43,421 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2016-04-30 13:14:43,423 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2016-04-30 13:14:43,424 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: EventCloud
+DEBUG 2016-04-30 13:14:43,434 [1    ] bp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+INFO  2016-04-30 13:14:43,457 [1    ] Hangfire.BackgroundJobServer             - Starting Hangfire Server
+INFO  2016-04-30 13:14:43,460 [1    ] Hangfire.BackgroundJobServer             - Using job storage: 'SQL Server: (LocalDB)\MSSQLLocalDB@'.
+INFO  2016-04-30 13:14:43,461 [1    ] Hangfire.BackgroundJobServer             - Using the following options for SQL Server job storage:
+INFO  2016-04-30 13:14:43,461 [1    ] Hangfire.BackgroundJobServer             -     Queue poll interval: 00:00:15.
+INFO  2016-04-30 13:14:43,461 [1    ] Hangfire.BackgroundJobServer             - Using the following options for Hangfire Server:
+INFO  2016-04-30 13:14:43,461 [1    ] Hangfire.BackgroundJobServer             -     Worker count: 20.
+INFO  2016-04-30 13:14:43,461 [1    ] Hangfire.BackgroundJobServer             -     Listening queues: 'default'.
+INFO  2016-04-30 13:14:43,462 [1    ] Hangfire.BackgroundJobServer             -     Shutdown timeout: 00:00:15.
+INFO  2016-04-30 13:14:43,462 [1    ] Hangfire.BackgroundJobServer             -     Schedule polling interval: 00:00:15.
+DEBUG 2016-04-30 13:14:43,492 [erver] ngfire.Server.BackgroundProcessingServer - Background process 'BackgroundProcessingServer' started.
+DEBUG 2016-04-30 13:14:43,680 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 4 classes defines auto mapping attributes
+DEBUG 2016-04-30 13:14:43,680 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2016-04-30 13:14:43,712 [tbeat] Hangfire.Server.ServerHeartbeat          - Background process 'ServerHeartbeat' started.
+DEBUG 2016-04-30 13:14:43,718 [chdog] Hangfire.Server.ServerWatchdog           - Background process 'ServerWatchdog' started.
+DEBUG 2016-04-30 13:14:43,722 [nager] Hangfire.SqlServer.ExpirationManager     - Background process 'Hangfire.SqlServer.ExpirationManager' started.
+INFO  2016-04-30 13:14:43,748 [chdog] Hangfire.Server.ServerWatchdog           - 1 servers were removed due to timeout
+DEBUG 2016-04-30 13:14:43,749 [gator] Hangfire.SqlServer.CountersAggregator    - Background process 'Hangfire.SqlServer.CountersAggregator' started.
+DEBUG 2016-04-30 13:14:43,749 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'AggregatedCounter'...
+DEBUG 2016-04-30 13:14:43,752 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-30 13:14:43,752 [338e5] Hangfire.Server.Worker                   - Background process 'Worker #b33338e5' started.
+DEBUG 2016-04-30 13:14:43,783 [0a1f1] Hangfire.Server.Worker                   - Background process 'Worker #fd50a1f1' started.
+DEBUG 2016-04-30 13:14:43,792 [b0482] Hangfire.Server.Worker                   - Background process 'Worker #b4fb0482' started.
+DEBUG 2016-04-30 13:14:43,796 [e8a80] Hangfire.Server.Worker                   - Background process 'Worker #cf4e8a80' started.
+DEBUG 2016-04-30 13:14:43,814 [c479e] Hangfire.Server.Worker                   - Background process 'Worker #2e6c479e' started.
+DEBUG 2016-04-30 13:14:43,821 [4d4fa] Hangfire.Server.Worker                   - Background process 'Worker #b104d4fa' started.
+DEBUG 2016-04-30 13:14:43,828 [26c48] Hangfire.Server.Worker                   - Background process 'Worker #f7826c48' started.
+DEBUG 2016-04-30 13:14:43,844 [d6fce] Hangfire.Server.Worker                   - Background process 'Worker #3d9d6fce' started.
+DEBUG 2016-04-30 13:14:43,858 [02226] Hangfire.Server.Worker                   - Background process 'Worker #6b602226' started.
+DEBUG 2016-04-30 13:14:43,881 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Job'...
+DEBUG 2016-04-30 13:14:43,882 [33466] Hangfire.Server.Worker                   - Background process 'Worker #17933466' started.
+DEBUG 2016-04-30 13:14:43,885 [aa749] Hangfire.Server.Worker                   - Background process 'Worker #ca6aa749' started.
+DEBUG 2016-04-30 13:14:43,896 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'List'...
+DEBUG 2016-04-30 13:14:43,904 [23130] Hangfire.Server.Worker                   - Background process 'Worker #fa523130' started.
+DEBUG 2016-04-30 13:14:43,906 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Set'...
+DEBUG 2016-04-30 13:14:43,911 [03617] Hangfire.Server.Worker                   - Background process 'Worker #79703617' started.
+DEBUG 2016-04-30 13:14:43,916 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Hash'...
+DEBUG 2016-04-30 13:14:43,927 [90c2b] Hangfire.Server.Worker                   - Background process 'Worker #be290c2b' started.
+DEBUG 2016-04-30 13:14:43,947 [38d80] Hangfire.Server.Worker                   - Background process 'Worker #2c938d80' started.
+DEBUG 2016-04-30 13:14:43,952 [931fd] Hangfire.Server.Worker                   - Background process 'Worker #e90931fd' started.
+DEBUG 2016-04-30 13:14:43,956 [beddd] Hangfire.Server.Worker                   - Background process 'Worker #b94beddd' started.
+DEBUG 2016-04-30 13:14:43,960 [b8623] Hangfire.Server.Worker                   - Background process 'Worker #fa1b8623' started.
+DEBUG 2016-04-30 13:14:43,965 [f3656] Hangfire.Server.Worker                   - Background process 'Worker #dcff3656' started.
+DEBUG 2016-04-30 13:14:43,969 [f73f1] Hangfire.Server.Worker                   - Background process 'Worker #d3af73f1' started.
+DEBUG 2016-04-30 13:14:43,973 [duler] Hangfire.Server.DelayedJobScheduler      - Background process 'DelayedJobScheduler' started.
+DEBUG 2016-04-30 13:14:43,977 [duler] Hangfire.Server.RecurringJobScheduler    - Background process 'RecurringJobScheduler' started.
+DEBUG 2016-04-30 13:14:44,077 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.UserLoginInfoDto
+DEBUG 2016-04-30 13:14:44,087 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.MultiTenancy.Dto.TenantListDto
+DEBUG 2016-04-30 13:14:44,087 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2016-04-30 13:14:44,140 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2016-04-30 13:14:44,142 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2016-04-30 13:14:44,144 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2016-04-30 13:14:44,148 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2016-04-30 13:14:56,233 [9    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"c7e50f48-87b7-48e4-b593-915d4563345f","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-04-30T13:14:56.2183123-07:00","Properties":{}}
+DEBUG 2016-04-30 13:14:56,282 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: c7e50f48-87b7-48e4-b593-915d4563345f
+DEBUG 2016-04-30 13:19:43,884 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-30 13:22:26,843 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: c7e50f48-87b7-48e4-b593-915d4563345f
+DEBUG 2016-04-30 13:22:27,523 [44   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ef6a1645-91ff-4d43-bf2e-7db2da4654fe","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-04-30T13:22:27.5238323-07:00","Properties":{}}
+DEBUG 2016-04-30 13:22:27,538 [48   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ef6a1645-91ff-4d43-bf2e-7db2da4654fe
+DEBUG 2016-04-30 13:22:31,185 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ef6a1645-91ff-4d43-bf2e-7db2da4654fe
+DEBUG 2016-04-30 13:22:31,647 [48   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"e9a9f521-9841-4ced-8aca-008443bc9485","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-04-30T13:22:31.6471386-07:00","Properties":{}}
+DEBUG 2016-04-30 13:22:31,742 [45   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: e9a9f521-9841-4ced-8aca-008443bc9485
+DEBUG 2016-04-30 13:24:43,901 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-04-30 13:29:43,916 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-05-07 07:49:49,167 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2016-05-07 07:49:54,338 [1    ] Abp.Modules.AbpModuleManager             - Found 16 ABP modules in total.
+DEBUG 2016-05-07 07:49:54,343 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,345 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Owin.AbpOwinModule, Abp.Owin, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,346 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,347 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.8.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,347 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudApplicationModule, EventCloud.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,347 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudCoreModule, EventCloud.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,347 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.EventCloudDataModule, EventCloud.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,347 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Web.EventCloudWebModule, EventCloud.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,347 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: EventCloud.Api.EventCloudWebApiModule, EventCloud.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2016-05-07 07:49:54,355 [1    ] Abp.Modules.AbpModuleManager             - 16 modules loaded.
+DEBUG 2016-05-07 07:49:54,424 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-05-07 07:49:54,424 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-05-07 07:49:54,424 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2016-05-07 07:49:54,424 [1    ] o.Configuration.LanguageManagementConfig - Converted EventCloud (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+INFO  2016-05-07 07:49:54,503 [1    ] Hangfire.SqlServer.SqlServerStorage      - Start installing Hangfire SQL objects...
+INFO  2016-05-07 07:49:54,571 [1    ] Hangfire.SqlServer.SqlServerStorage      - Hangfire SQL objects installed.
+DEBUG 2016-05-07 07:49:55,718 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2016-05-07 07:49:55,728 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2016-05-07 07:49:55,729 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2016-05-07 07:49:55,732 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2016-05-07 07:49:55,734 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: EventCloud
+DEBUG 2016-05-07 07:49:55,744 [1    ] bp.Hangfire.HangfireBackgroundJobManager - Start background worker: Abp.Hangfire.HangfireBackgroundJobManager
+INFO  2016-05-07 07:49:55,766 [1    ] Hangfire.BackgroundJobServer             - Starting Hangfire Server
+INFO  2016-05-07 07:49:55,772 [1    ] Hangfire.BackgroundJobServer             - Using job storage: 'SQL Server: (LocalDB)\MSSQLLocalDB@'.
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             - Using the following options for SQL Server job storage:
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             -     Queue poll interval: 00:00:15.
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             - Using the following options for Hangfire Server:
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             -     Worker count: 20.
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             -     Listening queues: 'default'.
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             -     Shutdown timeout: 00:00:15.
+INFO  2016-05-07 07:49:55,773 [1    ] Hangfire.BackgroundJobServer             -     Schedule polling interval: 00:00:15.
+DEBUG 2016-05-07 07:49:55,804 [erver] ngfire.Server.BackgroundProcessingServer - Background process 'BackgroundProcessingServer' started.
+DEBUG 2016-05-07 07:49:56,029 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 6 classes defines auto mapping attributes
+DEBUG 2016-05-07 07:49:56,029 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2016-05-07 07:49:56,060 [tbeat] Hangfire.Server.ServerHeartbeat          - Background process 'ServerHeartbeat' started.
+DEBUG 2016-05-07 07:49:56,105 [chdog] Hangfire.Server.ServerWatchdog           - Background process 'ServerWatchdog' started.
+DEBUG 2016-05-07 07:49:56,129 [nager] Hangfire.SqlServer.ExpirationManager     - Background process 'Hangfire.SqlServer.ExpirationManager' started.
+DEBUG 2016-05-07 07:49:56,133 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'AggregatedCounter'...
+DEBUG 2016-05-07 07:49:56,158 [gator] Hangfire.SqlServer.CountersAggregator    - Background process 'Hangfire.SqlServer.CountersAggregator' started.
+INFO  2016-05-07 07:49:56,158 [chdog] Hangfire.Server.ServerWatchdog           - 1 servers were removed due to timeout
+DEBUG 2016-05-07 07:49:56,161 [gator] Hangfire.SqlServer.CountersAggregator    - Aggregating records in 'Counter' table...
+DEBUG 2016-05-07 07:49:56,161 [07d89] Hangfire.Server.Worker                   - Background process 'Worker #0a907d89' started.
+DEBUG 2016-05-07 07:49:56,179 [b618e] Hangfire.Server.Worker                   - Background process 'Worker #7e6b618e' started.
+DEBUG 2016-05-07 07:49:56,206 [8a64a] Hangfire.Server.Worker                   - Background process 'Worker #8878a64a' started.
+DEBUG 2016-05-07 07:49:56,213 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Job'...
+DEBUG 2016-05-07 07:49:56,215 [8edbb] Hangfire.Server.Worker                   - Background process 'Worker #4b68edbb' started.
+DEBUG 2016-05-07 07:49:56,225 [b9c8f] Hangfire.Server.Worker                   - Background process 'Worker #390b9c8f' started.
+DEBUG 2016-05-07 07:49:56,239 [408c2] Hangfire.Server.Worker                   - Background process 'Worker #c36408c2' started.
+DEBUG 2016-05-07 07:49:56,242 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'List'...
+DEBUG 2016-05-07 07:49:56,264 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Set'...
+DEBUG 2016-05-07 07:49:56,270 [4c62d] Hangfire.Server.Worker                   - Background process 'Worker #fdc4c62d' started.
+DEBUG 2016-05-07 07:49:56,271 [nager] Hangfire.SqlServer.ExpirationManager     - Removing outdated records from table 'Hash'...
+DEBUG 2016-05-07 07:49:56,275 [22254] Hangfire.Server.Worker                   - Background process 'Worker #8f322254' started.
+DEBUG 2016-05-07 07:49:56,280 [e7d14] Hangfire.Server.Worker                   - Background process 'Worker #6ece7d14' started.
+DEBUG 2016-05-07 07:49:56,287 [15d6a] Hangfire.Server.Worker                   - Background process 'Worker #f8015d6a' started.
+DEBUG 2016-05-07 07:49:56,292 [32a61] Hangfire.Server.Worker                   - Background process 'Worker #40d32a61' started.
+DEBUG 2016-05-07 07:49:56,297 [dc676] Hangfire.Server.Worker                   - Background process 'Worker #187dc676' started.
+DEBUG 2016-05-07 07:49:56,302 [bb3bd] Hangfire.Server.Worker                   - Background process 'Worker #731bb3bd' started.
+DEBUG 2016-05-07 07:49:56,308 [055b3] Hangfire.Server.Worker                   - Background process 'Worker #d1f055b3' started.
+DEBUG 2016-05-07 07:49:56,312 [6eaca] Hangfire.Server.Worker                   - Background process 'Worker #8f06eaca' started.
+DEBUG 2016-05-07 07:49:56,317 [ccdc8] Hangfire.Server.Worker                   - Background process 'Worker #90cccdc8' started.
+DEBUG 2016-05-07 07:49:56,323 [fdf80] Hangfire.Server.Worker                   - Background process 'Worker #9f8fdf80' started.
+DEBUG 2016-05-07 07:49:56,327 [3266e] Hangfire.Server.Worker                   - Background process 'Worker #6173266e' started.
+DEBUG 2016-05-07 07:49:56,337 [25532] Hangfire.Server.Worker                   - Background process 'Worker #d6825532' started.
+DEBUG 2016-05-07 07:49:56,340 [92504] Hangfire.Server.Worker                   - Background process 'Worker #d9e92504' started.
+DEBUG 2016-05-07 07:49:56,345 [duler] Hangfire.Server.DelayedJobScheduler      - Background process 'DelayedJobScheduler' started.
+DEBUG 2016-05-07 07:49:56,352 [duler] Hangfire.Server.RecurringJobScheduler    - Background process 'RecurringJobScheduler' started.
+DEBUG 2016-05-07 07:49:56,484 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Sessions.Dto.UserLoginInfoDto
+DEBUG 2016-05-07 07:49:56,493 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.MultiTenancy.Dto.TenantListDto
+DEBUG 2016-05-07 07:49:56,494 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Events.Dtos.EventDetailOutput
+DEBUG 2016-05-07 07:49:56,523 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Events.Dtos.EventListDto
+DEBUG 2016-05-07 07:49:56,525 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - EventCloud.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2016-05-07 07:49:56,555 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2016-05-07 07:49:56,557 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2016-05-07 07:49:56,558 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2016-05-07 07:49:56,560 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'EventCloud.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2016-05-07 07:50:10,613 [35   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"76cdd41e-b65a-4e22-94b5-701be89d4540","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-05-07T07:50:10.6033413-07:00","Properties":{}}
+DEBUG 2016-05-07 07:50:10,659 [35   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 76cdd41e-b65a-4e22-94b5-701be89d4540
+DEBUG 2016-05-07 07:50:36,995 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 76cdd41e-b65a-4e22-94b5-701be89d4540
+DEBUG 2016-05-07 07:50:37,827 [34   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"489b3424-e386-4ce2-ade5-1638cae34eba","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-05-07T07:50:37.8279863-07:00","Properties":{}}
+DEBUG 2016-05-07 07:50:37,945 [40   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 489b3424-e386-4ce2-ade5-1638cae34eba
+DEBUG 2016-05-07 07:50:49,005 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 489b3424-e386-4ce2-ade5-1638cae34eba
+DEBUG 2016-05-07 07:50:49,550 [38   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ce3de455-c384-40dc-9dda-43d9c6cdc0f1","IpAddress":"::1","TenantId":1,"UserId":2,"ConnectTime":"2016-05-07T07:50:49.5501095-07:00","Properties":{}}
+DEBUG 2016-05-07 07:50:49,651 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ce3de455-c384-40dc-9dda-43d9c6cdc0f1
