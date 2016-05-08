@@ -1,4 +1,8 @@
 # event-cloud
-event-cloud is a multi-tanent SaaS application built on angular SPA
+Event-Cloud is a Multi-Tanent SaaS application built on angular SPA
 
 This is going to be .NET MVC project
+
+Pre-requisites
+Visual Studio 2015
+Microsoft SQL Server Express
